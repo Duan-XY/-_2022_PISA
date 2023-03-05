@@ -3,8 +3,10 @@
 > 赛题D  PISA芯片的流水线排布
 
 - 代码语言：Matlab
-- 代码结构参见 `photo/program.png`
 
+- 代码结构参见 `./photo/program.png`
 
->  **全国二等奖**
+- 流水线排布结果参见`./附件/*.csv`
+
+>  **全国二等奖**  by 吨吨桶
 

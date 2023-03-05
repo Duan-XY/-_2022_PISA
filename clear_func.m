@@ -17,3 +17,5 @@ clear Pipeline_col;
 clear s;
 clear sum_ALU;
 clear sum_QUALIFY;
+
+%%test
